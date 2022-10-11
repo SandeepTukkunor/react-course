@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
    <div>
-    Hello World to my friend
+    Hello World the shangaduria
    </div>
   );
 }
